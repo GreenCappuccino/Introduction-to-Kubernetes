@@ -139,7 +139,7 @@ course:
       - title: "Cloud Installation"
         url: /course/chapter-5/cloud-installation
       - title: "Kubernetes Installation Tools/Resources"
-        url: /course/chapter-5/kubernetes-installation-tools/resources
+        url: /course/chapter-5/kubernetes-installation-tools-resources
       - title: "Learning Objectives (Review)"
         url: /course/chapter-5/learning-objectives-review
 

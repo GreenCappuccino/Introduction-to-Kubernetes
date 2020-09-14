@@ -1,5 +1,5 @@
 ---
-title: Meet Your Instructor: Chris Pokorni
+title: "Meet Your Instructor: Chris Pokorni"
 permalink: /course/welcome/meet-your-instructor-chris-pokorni
 ---
 ![Cristian_Pokorni.jpg](Cristian_Pokorni.jpg)

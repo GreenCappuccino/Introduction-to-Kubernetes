@@ -1,5 +1,5 @@
 ---
-title: Meet Your Instructor: Neependra Khare
+title: "Meet Your Instructor: Neependra Khare"
 permalink: /course/welcome/meet-your-instructor-neependra-khare
 ---
 ![Neependra_Khare.jpg](Neependra_Khare.jpg)

@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: LFS158x - Introduction to Kubernetes
-email:
+#email:
 description: >- # this means to ignore newlines until "baseurl:"
   This is a mirror of the edX course text content as of September 13th, 2020.
   LFS158x - Introduction to Kubernetes is created by Chris Pokorni, and Neependra Khare.
@@ -25,16 +25,16 @@ description: >- # this means to ignore newlines until "baseurl:"
 url                      : https://lfs158x.greencappuccino.net
 repository               : GreenCappuccino/Introduction-to-Kubernetes
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+## Outputting
+#permalink: /:categories/:title/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
+#timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -54,10 +54,8 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 

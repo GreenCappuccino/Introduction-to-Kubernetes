@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url                      : https://lfs158x.greencappuccino.net
 repository               : GreenCappuccino/Introduction-to-Kubernetes
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown

@@ -1,6 +1,6 @@
 ---
 title: "Learning Objectives (Review)"
-permalink: /course/chapter-2/learning-objectives-review
+permalink: /course/chapter-3/learning-objectives-review
 ---
 {% include figure image_path="/assets/images/LearningObjectives.png" alt="LearningObjectives.png"%}{: .align-right}
 

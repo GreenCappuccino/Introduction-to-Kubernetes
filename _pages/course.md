@@ -1,6 +1,8 @@
 ---
-permalink: /about
-title: "About"
+permalink: /
+title: "Course"
+sidebar:
+  nav: "course"
 ---
 ## LFS158x - Introduction to Kubernetes
 This is a mirror of the edX course text content as of September 13th, 2020.

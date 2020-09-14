@@ -15,3 +15,5 @@ We strongly recommend that you review the course syllabus before jumping into th
 -   Grading, progress, and course completion
 -   Audit and verified tracks
 -   The Linux Foundation's history, events, training, and certifications.
+
+[Course Syllabus](course_syllabus.pdf)

@@ -2,7 +2,7 @@
 title: "Learning Objectives (Review)"
 permalink: /course/chapter-1/learning-objectives-review
 ---
-![LearningObjectives.png](/assets/images/LearningObjectives.png){: .align-right}
+{% include figure image_path="/assets/images/LearningObjectives.png" alt="LearningObjectives.png"%}{: .align-right}
 
 You should now be able to:
 

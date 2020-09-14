@@ -6,7 +6,7 @@ Before we dive into container orchestration, let's review first what containers 
 
 **Containers** are application-centric methods to deliver high-performing, scalable applications on any infrastructure of your choice. Containers are best suited to deliver microservices by providing portable, isolated virtual environments for applications to run without interference from other running applications.
 
-{% include figure image_path="/assets/images/Ch_2_-_Containers_-_why_containers.png" alt="Containers bundle applications and libraries" caption="Containers" %}
+{% include figure image_path="/assets/images/Ch_2_-_Containers_-_why_containers.png" alt="Containers bundle applications and libraries" caption="Containers"%}{: .align-right}
 
 **Microservices** are lightweight applications written in various modern programming languages, with specific dependencies, libraries and environmental requirements. To ensure that an application has everything it needs to run successfully it is packaged together with its dependencies.
 

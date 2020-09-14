@@ -59,6 +59,7 @@ plugins:
   - jekyll-gist
   - jemoji
   - jekyll-include-cache
+  - jekyll-image-size
 
 #author:
 #  name   : "First Lastname"
@@ -114,6 +115,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      classes: wide
   - scope:
       path: "_course"
       type: course
@@ -122,6 +124,7 @@ defaults:
       author_profile: false
       sidebar:
         nav: "course"
+      classes: wide
 
 #category_archive:
 #  type: liquid

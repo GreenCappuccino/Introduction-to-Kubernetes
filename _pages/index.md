@@ -4,7 +4,8 @@ title: "About"
 sidebar:
   nav: "course"
 ---
-## LFS158x - Introduction to Kubernetes
+**LFS158x - Introduction to Kubernetes**
+
 This is a mirror of the edX course text content as of September 13th, 2020.
 
 LFS158x - Introduction to Kubernetes is created by Chris Pokorni, and Neependra Khare.

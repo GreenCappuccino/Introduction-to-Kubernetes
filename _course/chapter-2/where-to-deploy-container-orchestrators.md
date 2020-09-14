@@ -1,0 +1,9 @@
+---
+title: "Where to Deploy Container Orchestrators?"
+permalink: /course/chapter-2/where-to-deploy-container-orchestrators
+---
+Most container orchestrators can be deployed on the infrastructure of our choice - on bare metal, Virtual Machines, on-premise, or the public cloud. Kubernetes, for example, can be deployed on a workstation, with or without a local hypervisor such as Oracle VirtualBox, inside a company's data center, in the cloud on AWS Elastic Compute Cloud (EC2) instances, Google Compute Engine (GCE) VMs, DigitalOcean Droplets, OpenStack, etc.
+
+There are turnkey solutions which allow Kubernetes clusters to be installed, with only a few commands, on top of cloud Infrastructures-as-a-Service, such as GCE, AWS EC2, Docker Enterprise, IBM Cloud, Rancher, VMware, Pivotal, and multi-cloud solutions through IBM Cloud Private and StackPointCloud.
+
+Last but not least, there is the managed container orchestration as-a-Service, more specifically the managed Kubernetes as-a-Service solution, offered and hosted by the major cloud providers, such as [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/) (GKE), [Amazon Elastic Container Service for Kubernetes](https://aws.amazon.com/eks/) (Amazon EKS), [Azure Kubernetes Service](https://azure.microsoft.com/en-us/services/kubernetes-service/) (AKS), [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/container-service), [DigitalOcean Kubernetes](https://www.digitalocean.com/products/kubernetes/), [Oracle Container Engine for Kubernetes](https://cloud.oracle.com/containers/kubernetes-engine), etc. These shall be explored in one of the later chapters.

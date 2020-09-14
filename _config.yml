@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url                      : https://lfs158x.greencappuccino.net
 repository               : GreenCappuccino/Introduction-to-Kubernetes
 minimal_mistakes_skin: default
-search: false
+search: true
 
 # Build settings
 markdown: kramdown
@@ -54,6 +54,7 @@ include:
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jemoji
@@ -89,6 +90,11 @@ plugins:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
 
+collections:
+  course:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
 #  # _posts
 #  - scope:
@@ -110,7 +116,7 @@ defaults:
       author_profile: false
   - scope:
       path: "_course"
-      type: pages
+      type: course
     values:
       layout: single
       author_profile: false

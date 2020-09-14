@@ -16,8 +16,10 @@ course:
 
   - title: Chapter 1. From Monolith to Microservices
     children:
-      - title: "Introduction and Learning Objectives"
+      - title: "Introduction"
         url: /course/chapter-1/intro
+      - title: "Learning Objectives"
+        url: /course/chapter-1/learning-objectives
       - title: "The Legacy Monolith"
         url: /course/chapter-1/the-legacy-monolith
       - title: "The Modern Microservice"
@@ -27,14 +29,16 @@ course:
       - title: "Challenges"
         url: /course/chapter-1/challenges
       - title: "Success Stories"
-        url: /course/chapter-1/success=stories
+        url: /course/chapter-1/success-stories
       - title: "Learning Objectives (Review)"
-        url: /course/chapter-1/learning-objectives
+        url: /course/chapter-1/learning-objectives-review
 
   - title: Chapter 2. Container Orchestration
     children:
-      - title: "Introduction and Learning Objectives"
+      - title: "Introduction"
         url: /course/chapter-2/intro
+      - title: "Learning Objectives"
+        url: /course/chapter-2/learning-objectives
       - title: "What Are Containers?"
         url: /course/chapter-2/what-are-containers
       - title: "What Is Container Orchestration?"
@@ -46,12 +50,14 @@ course:
       - title: "Where to Deploy Container Orchestrators?"
         url: /course/chapter-2/where-to-deploy-container-orchestrators
       - title: "Learning Objectives (Review)"
-        url: /course/chapter-2/learning-objectives
+        url: /course/chapter-2/learning-objectives-review
 
   - title: Chapter 3. Kubernetes
     children:
-      - title: "Introduction and Learning Objectives"
+      - title: "Introduction"
         url: /course/chapter-3/intro
+      - title: "Learning Objectives"
+        url: /course/chapter-3/learning-objectives
       - title: "What Is Kubernetes?"
         url: /course/chapter-3/what-is-kubernetes
       - title: "From Borg to Kubernetes"
@@ -69,12 +75,14 @@ course:
       - title: "CNCF and Kubernetes"
         url: /course/chapter-3/cncf-and-kubernetes
       - title: "Learning Objectives (Review)"
-        url: /course/chapter-3/learning-objectives
+        url: /course/chapter-3/learning-objectives-review
 
   - title: Chapter 4. Kubernetes Architecture
     children:
-      - title: "Introduction and Learning Objectives"
+      - title: "Introduction"
         url: /course/chapter-4/intro
+      - title: "Learning Objectives"
+        url: /course/chapter-4/learning-objectives
       - title: "Kubernetes Architecture"
         url: /course/chapter-4/kubernetes-architecture
       - title: "Master Node"
@@ -112,12 +120,14 @@ course:
       - title: "Pod-to-External World Communication"
         url: /course/chapter-4/pod-to-external-world-communication
       - title: "Learning Objectives (Review)"
-        url: /course/chapter-4/learning-objectives
+        url: /course/chapter-4/learning-objectives-review
 
   - title: Chapter 5. Installing Kubernetes
     children:
-      - title: "Introduction and Learning Objectives"
+      - title: "Introduction"
         url: /course/chapter-5/intro
+      - title: "Learning Objectives"
+        url: /course/chapter-5/learning-objectives
       - title: "Kubernetes Configuration"
         url: /course/chapter-5/kubernetes-configuration
       - title: "Infrastructure for Kubernetes Installation"
@@ -131,12 +141,14 @@ course:
       - title: "Kubernetes Installation Tools/Resources"
         url: /course/chapter-5/kubernetes-installation-tools/resources
       - title: "Learning Objectives (Review)"
-        url: /course/chapter-5/learning-objectives
+        url: /course/chapter-5/learning-objectives-review
 
   - title: Chapter 6. Minikube - A Local Single-Node Kubernetes Cluster
     children:
-      - title: "Introduction and Learning Objectives"
+      - title: "Introduction"
         url: /course/chapter-6/intro
+      - title: "Learning Objectives"
+        url: /course/chapter-6/learning-objectives
       - title: "Requirements for Running Minikube"
         url: /course/chapter-6/requirements-for-running-minikube
       - title: "Installing Minikube on Linux"
@@ -150,12 +162,14 @@ course:
       - title: "Installing Minikube (Demo)"
         url: /course/chapter-6/installing-minikube-demo
       - title: "Learning Objectives (Review)"
-        url: /course/chapter-6/learning-objectives
+        url: /course/chapter-6/learning-objectives-review
 
   - title: Chapter 7. Accessing Minikube
     children:
-      - title: "Introduction and Learning Objectives"
+      - title: "Introduction"
         url: /course/chapter-7/intro
+      - title: "Learning Objectives"
+        url: /course/chapter-7/learning-objectives
       - title: "Accessing Minikube"
         url: /course/chapter-7/accessing-minikube
       - title: "Accessing Minikube: Command Line Interface (CLI)"
@@ -187,12 +201,14 @@ course:
       - title: "Accessing the Cluster with Dashboard and Query APIs with CLI (Demo)"
         url: /course/chapter-7/accessing-the-cluster-with-dashboard-and-query-apis-with-cli-demo
       - title: "Learning Objectives (Review)"
-        url: /course/chapter-7/learning-objectives
+        url: /course/chapter-7/learning-objectives-review
 
   - title: Chapter 8. Kubernetes Building Blocks
     children:
-      - title: "Introduction and Learning Objectives"
+      - title: "Introduction"
         url: /course/chapter-8/intro
+      - title: "Learning Objectives"
+        url: /course/chapter-8/learning-objectives
       - title: "Kubernetes Object Model"
         url: /course/chapter-8/kubernetes-object-model
       - title: "Pods"
@@ -220,12 +236,14 @@ course:
       - title: "Deployment Rolling Update and Rollback (Demo)"
         url: /course/chapter-8/deployment-rolling-update-and-rollback-demo
       - title: "Learning Objectives (Review)"
-        url: /course/chapter-8/learning-objectives
+        url: /course/chapter-8/learning-objectives-review
 
   - title: Chapter 9. Authentication, Authorization, and Admission Control
     children:
-      - title: "Introduction and Learning Objectives"
+      - title: "Introduction"
         url: /course/chapter-9/intro
+      - title: "Learning Objectives"
+        url: /course/chapter-9/learning-objectives
       - title: "Authentication, Authorization, and Admission Control - Overview"
         url: /course/chapter-9/authentication-authorization-and-admission-control-overview
       - title: "Authentication I"
@@ -245,12 +263,14 @@ course:
       - title: "Authentication and Authorization (Demo)"
         url: /course/chapter-9/authentication-and-authorization-demo
       - title: "Learning Objectives (Review)"
-        url: /course/chapter-9/learning-objectives
+        url: /course/chapter-9/learning-objectives-review
 
   - title: Chapter 10. Services
     children:
-      - title: "Introduction and Learning Objectives"
+      - title: "Introduction"
         url: /course/chapter-10/intro
+      - title: "Learning Objectives"
+        url: /course/chapter-10/learning-objectives
       - title: "Connecting Users to Pods"
         url: /course/chapter-10/connecting-users-to-pods
       - title: "Services"
@@ -272,12 +292,14 @@ course:
       - title: "ServiceType: ExternalName"
         url: /course/chapter-10/servicetype-externalname
       - title: "Learning Objectives (Review)"
-        url: /course/chapter-10/learning-objectives
+        url: /course/chapter-10/learning-objectives-review
 
   - title: Chapter 11. Deploying a Stand-Alone Application
     children:
-      - title: "Introduction and Learning Objectives"
+      - title: "Introduction"
         url: /course/chapter-11/intro
+      - title: "Learning Objectives"
+        url: /course/chapter-11/learning-objectives
       - title: "Deploying an Application Using the Dashboard I"
         url: /course/chapter-11/deploying-an-application-using-the-dashboard-i
       - title: "Deploying an Application Using the Dashboard II"
@@ -317,12 +339,14 @@ course:
       - title: "Deploying a Containerized Application (Demo)"
         url: /course/chapter-11/deploying-a-containerized-application-demo
       - title: "Learning Objectives (Review)"
-        url: /course/chapter-11/learning-objectives
+        url: /course/chapter-11/learning-objectives-review
 
   - title: Chapter 12. Kubernetes Volume Management
     children:
-      - title: "Introduction and Learning Objectives"
+      - title: "Introduction"
         url: /course/chapter-12/intro
+      - title: "Learning Objectives"
+        url: /course/chapter-12/learning-objectives
       - title: "Volumes"
         url: /course/chapter-12/volumes
       - title: "Volume Types"
@@ -336,12 +360,14 @@ course:
       - title: "Using a Shared hostPath Volume Type (Demo)"
         url: /course/chapter-12/using-a-shared-hostpath-volume-type-demo
       - title: "Learning Objectives (Review)"
-        url: /course/chapter-12/learning-objectives
+        url: /course/chapter-12/learning-objectives-review
 
   - title: Chapter 13. ConfigMaps and Secrets
     children:
-      - title: "Introduction and Learning Objectives"
+      - title: "Introduction"
         url: /course/chapter-13/intro
+      - title: "Learning Objectives"
+        url: /course/chapter-13/learning-objectives
       - title: "ConfigMaps"
         url: /course/chapter-13/configmaps
       - title: "Create a ConfigMap from Literal Values and Display Its Details"
@@ -365,12 +391,14 @@ course:
       - title: "Using ConfigMaps (Demo)"
         url: /course/chapter-13/using-configmaps-demo
       - title: "Learning Objectives (Review)"
-        url: /course/chapter-13/learning-objectives
+        url: /course/chapter-13/learning-objectives-review
 
   - title: Chapter 14. Ingress
     children:
-      - title: "Introduction and Learning Objectives"
+      - title: "Introduction"
         url: /course/chapter-14/intro
+      - title: "Learning Objectives"
+        url: /course/chapter-14/learning-objectives
       - title: "Ingress I"
         url: /course/chapter-14/ingress-i
       - title: "Ingress II"
@@ -384,12 +412,14 @@ course:
       - title: "Using Ingress Rules to Access an Application (Demo)"
         url: /course/chapter-14/using-ingress-rules-to-access-an-application-demo
       - title: "Learning Objectives (Review)"
-        url: /course/chapter-14/learning-objectives
+        url: /course/chapter-14/learning-objectives-review
 
   - title: Chapter 15. Advanced Topics
     children:
-      - title: "Introduction and Learning Objectives"
+      - title: "Introduction"
         url: /course/chapter-15/intro
+      - title: "Learning Objectives"
+        url: /course/chapter-15/learning-objectives
       - title: "Annotations"
         url: /course/chapter-15/annotations
       - title: "Jobs and CronJobs"
@@ -415,12 +445,14 @@ course:
       - title: "Monitoring and Logging"
         url: /course/chapter-15/monitoring-and-logging
       - title: "Learning Objectives (Review)"
-        url: /course/chapter-15/learning-objectives
+        url: /course/chapter-15/learning-objectives-review
 
   - title: Chapter 16. Kubernetes Community
     children:
-      - title: "Introduction and Learning Objectives"
+      - title: "Introduction"
         url: /course/chapter-16/intro
+      - title: "Learning Objectives"
+        url: /course/chapter-16/learning-objectives
       - title: "Kubernetes Community"
         url: /course/chapter-16/kubernetes-community
       - title: "Weekly Meetings and Meetup Groups"
@@ -434,4 +466,4 @@ course:
       - title: "What's Next on Your Kubernetes Journey?"
         url: /course/chapter-16/what's-next-on-your-kubernetes-journey
       - title: "Learning Objectives (Review)"
-        url: /course/chapter-16/learning-objectives
+        url: /course/chapter-16/learning-objectives-review

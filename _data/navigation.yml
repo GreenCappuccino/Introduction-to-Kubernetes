@@ -6,13 +6,13 @@ course:
   - title: Welcome!
     children:
       - title: "Before You Begin"
-        url: /course/welcome/before-you-begin
+        url: /course/chapter-0/before-you-begin
       - title: "Getting Help"
-        url: /course/welcome/getting-help
+        url: /course/chapter-0/getting-help
       - title: "Meet Your Instructor: Chris Pokorni"
-        url: /course/welcome/meet-your-instructor-chris-pokorni
+        url: /course/chapter-0/meet-your-instructor-chris-pokorni
       - title: "Meet Your Instructor: Neependra Khare"
-        url: /course/welcome/meet-your-instructor-neependra-khare
+        url: /course/chapter-0/meet-your-instructor-neependra-khare
 
   - title: Chapter 1. From Monolith to Microservices
     children:

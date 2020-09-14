@@ -1,10 +1,10 @@
 #main:
-#  - title: "Course"
-#    url: /
 #  - title: "About"
 #    url: /about
 
 course:
+  - title: "About"
+    url: /About
   - title: Welcome!
     children:
       - title: "Before You Begin"

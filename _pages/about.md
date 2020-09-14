@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Course"
+title: "About"
 sidebar:
   nav: "course"
 ---

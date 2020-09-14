@@ -1,10 +1,10 @@
 ---
-title: "Learning Objectives"
-permalink: /course/chapter-4/learning-objectives
+title: "Learning Objectives (Review)"
+permalink: /course/chapter-4/learning-objectives-review
 ---
 {% include figure image_path="/assets/images/LearningObjectives.png" alt="LearningObjectives.png"%}{: .align-right}
 
-By the end of this chapter, you should be able to:
+You should now be able to:
 
 -   Discuss the Kubernetes architecture.
 -   Explain the different components for master and worker nodes.

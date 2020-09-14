@@ -90,27 +90,27 @@ course:
       - title: "Master Node Components"
         url: /course/chapter-4/master-node-components
       - title: "Master Node Components: API Server"
-        url: /course/chapter-4/master-node-components:-api-server
+        url: /course/chapter-4/master-node-components-api-server
       - title: "Master Node Components: Scheduler"
-        url: /course/chapter-4/master-node-components:-scheduler
+        url: /course/chapter-4/master-node-components-scheduler
       - title: "Master Node Components: Controller Managers"
-        url: /course/chapter-4/master-node-components:-controller-managers
+        url: /course/chapter-4/master-node-components-controller-managers
       - title: "Master Node Components: etcd"
-        url: /course/chapter-4/master-node-components:-etcd
+        url: /course/chapter-4/master-node-components-etcd
       - title: "Worker Node"
         url: /course/chapter-4/worker-node
       - title: "Worker Node Components"
         url: /course/chapter-4/worker-node-components
       - title: "Worker Node Components: Container Runtime"
-        url: /course/chapter-4/worker-node-components:-container-runtime
+        url: /course/chapter-4/worker-node-components-container-runtime
       - title: "Worker Node Components: kubelet"
-        url: /course/chapter-4/worker-node-components:-kubelet
+        url: /course/chapter-4/worker-node-components-kubelet
       - title: "Worker Node Components: kubelet - CRI shims"
-        url: /course/chapter-4/worker-node-components:-kubelet---cri-shims
+        url: /course/chapter-4/worker-node-components-kubelet-cri-shims
       - title: "Worker Node Components: kube-proxy"
-        url: /course/chapter-4/worker-node-components:-kube-proxy
+        url: /course/chapter-4/worker-node-components-kube-proxy
       - title: "Worker Node Components: Addons"
-        url: /course/chapter-4/worker-node-components:-addons
+        url: /course/chapter-4/worker-node-components-addons
       - title: "Networking Challenges"
         url: /course/chapter-4/networking-challenges
       - title: "Container-to-Container Communication Inside Pods"

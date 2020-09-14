@@ -10,9 +10,9 @@ course:
       - title: "Getting Help"
         url: /course/welcome/getting-help
       - title: "Meet Your Instructor: Chris Pokorni"
-        url: /course/welcome/chris-pokorni
+        url: /course/welcome/meet-your-instructor-chris-pokorni
       - title: "Meet Your Instructor: Neependra Khare"
-        url: /course/welcome/neependra-khare
+        url: /course/welcome/meet-your-instructor-neependra-khare
 
   - title: Chapter 1. From Monolith to Microservices
     children:

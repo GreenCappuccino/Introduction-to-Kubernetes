@@ -1,6 +1,6 @@
 ---
 title: Meet Your Instructor: Neependra Khare
-permalink: /course/welcome/neependra-khare
+permalink: /course/welcome/meet-your-instructor-neependra-khare
 ---
 ![Neependra_Khare.jpg](Neependra_Khare.jpg)
 

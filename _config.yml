@@ -26,6 +26,7 @@ url                      : https://lfs158x.greencappuccino.net
 repository               : GreenCappuccino/Introduction-to-Kubernetes
 minimal_mistakes_skin: default
 search: false
+breadcrumbs: true  # disabled by default
 
 # Build settings
 markdown: kramdown
